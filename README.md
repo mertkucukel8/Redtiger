@@ -1,11 +1,9 @@
-Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
-
 <img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://guns.lol/loxy0dev">GunsLol</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="">Telegram</a> ・ <a href="https://guns.lol/mert848">GunsLol</a> ・ <a href="">Reviews</a>
 </p>
 
 <p align="center">
@@ -17,7 +15,7 @@ Re-upload of https://github.com/loxy0dev/RedTiger-Tools.
 
 <p>
   
-  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/loxy0dev">Loxy0dev</a><br>
+  - Developed in <strong>Python</strong>, by <a href="https://guns.lol/mert848">mert848</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
@@ -206,19 +204,4 @@ Or
 5 - Write "python Setup.py"
 ```
 <br><br>
-</p>
-
-<h1 align="center">Donation</h1>
-
-<p>
-  
-  <strong>Bitcoin Adress:</strong>
-  ``` 
-bc1q94263paqr9umagpqqafk6kc6wvr3ug2dpw5t7x
-  ```
-  <strong>Litecoin Adress:</strong>
-  ```
-LWyHjLVM4YCqwyVFSXJfidYbGuakn5C8rV
-  ```
-
 </p>
