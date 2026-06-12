@@ -187,7 +187,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/Rain798377/RedTiger-Tools.git">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/mertkucukel8/Redtiger.git">Dowloads "RedTiger.zip" Here</a>
 <p>
   
 ```
